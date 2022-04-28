@@ -23,7 +23,15 @@ After you have placed the token in the correct file you want to install Discord.
 
 ```
 npm i discord.js
-npm i
+npm i dotenv
+```
+
+Now its time to run the bot, so invite it to your server with this [link](https://discord.com/api/oauth2/authorize?client_id=969140112199917643&permissions=8&scope=bot%20applications.commands) then run the following commands
+
+```
+node .
+or 
+node index.js
 ```
 
 ---
